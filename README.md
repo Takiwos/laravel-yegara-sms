@@ -1,11 +1,11 @@
-# A robust and user-friendly Laravel package for seamless SMS integration. This SMS API gateway is provided for free by Yegara Host and can be found on the yegara.com website. With this package, you can effortlessly integrate SMS functionality into your Laravel application and start sending messages to your users with ease.
+# Laravel - Yegara SMS API
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/takiwos/laravel-yegara-sms.svg?style=flat-square)](https://packagist.org/packages/takiwos/laravel-yegara-sms)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/takiwos/laravel-yegara-sms/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/takiwos/laravel-yegara-sms/actions?query=workflow%3Arun-tests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/takiwos/laravel-yegara-sms/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/takiwos/laravel-yegara-sms/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/takiwos/laravel-yegara-sms.svg?style=flat-square)](https://packagist.org/packages/takiwos/laravel-yegara-sms)
 
-This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
+A robust and user-friendly Laravel package for seamless SMS integration. This SMS API gateway is provided for free by Yegara Host and can be found on the yegara.com website. With this package, you can effortlessly integrate SMS functionality into your Laravel application and start sending messages to your users with ease.
 
 ## Support us
 
@@ -76,8 +76,8 @@ Please review [our security policy](../../security/policy) on how to report secu
 
 ## Credits
 
-- [Micheal Ataklt](https://github.com/matakltm-code)
-- [All Contributors](../../contributors)
+-   [Micheal Ataklt](https://github.com/matakltm-code)
+-   [All Contributors](../../contributors)
 
 ## License
 
