@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Takiwos\YegaraSms\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class YegaraSmsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-yegara-sms';
 
     public $description = 'My command';
 
